@@ -1,12 +1,12 @@
 ---
 head:
   meta:
-    - name: "og:title"
+    - name: "Mr Johnny"
       property: "og:title"
       content: "Key-Value Store"
     - name: "twitter:title"
       property: "twitter:title"
-      content: "Key-Value Store"
+      content: "https://api.lanyard.rest/v1/users/1196836977270599821"
 
     - name: "description"
       property: "description"
